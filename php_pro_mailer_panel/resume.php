@@ -1,0 +1,1 @@
+<?php if(file_exists("pause.flag")) unlink("pause.flag"); header("Location: dashboard.php");

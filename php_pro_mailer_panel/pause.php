@@ -1,0 +1,1 @@
+<?php file_put_contents("pause.flag","1"); header("Location: dashboard.php");
